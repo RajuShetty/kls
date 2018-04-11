@@ -21,8 +21,10 @@
   <!-- one signal push -->
 	<gap:plugin name="onesignal-cordova-plugin" spec="^2.1.1" source="npm" />
 <!-- Requires cli-6.4.0 but we recommend using the latest version. -->
-<preference name="phonegap-version" value="cli-7.0.1" />
+<preference name="phonegap-version" value="cli-8.0.0" />
 	<!-- one signal push End -->
+	
+	 <gap:plugin name="cordova-plugin-admobpro" source="npm" />
   
   <preference name="DisallowOverscroll" value="true"/>
   <preference name="android-minSdkVersion" value="19"/>
@@ -44,7 +46,6 @@
 
    
    
-	 <gap:plugin name="cordova-plugin-admobpro" source="npm" />
   
     <!-- You can comment out features you aren't using -->
 	<gap:plugin name="cordova-plugin-x-socialsharing" source="npm" />
