@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "org.lovestoriesbysrinivas.app"
         version   = "2"
-		android-versionCode="10001"> 
+		android-versionCode="10002"> 
 
     <!-- Change app id (above), name, description, and author. App ID can be any reverse domain name, such as com.mycompany.app -->
     <name>Kannada Love stories</name>
